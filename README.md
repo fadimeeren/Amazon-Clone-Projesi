@@ -4,7 +4,5 @@
 -CSS
 # Ekran görüntüsü
 
-
-
-![amazon clone 2](https://github.com/user-attachments/assets/2abafc7d-d72b-4909-81ca-aa0ca2a31927)
+![amazon clone 3](https://github.com/user-attachments/assets/44536ac1-2934-4c71-900e-0b2b556341d6)
 
