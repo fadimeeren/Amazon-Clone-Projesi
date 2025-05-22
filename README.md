@@ -4,5 +4,6 @@
 -CSS
 # Ekran görüntüsü
 
-
 ![Uploading amazon clone.gif…]()
+
+
