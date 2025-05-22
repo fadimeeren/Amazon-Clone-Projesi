@@ -4,5 +4,6 @@
 -CSS
 # Ekran görüntüsü
 
-![amazon clone 3](https://github.com/user-attachments/assets/44536ac1-2934-4c71-900e-0b2b556341d6)
+![amazon clone gif](https://github.com/user-attachments/assets/eddb52b9-1e94-4334-975f-6833e53e0aa0)
+
 
